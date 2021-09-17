@@ -1,0 +1,33 @@
+PODS:
+  - Flutter (1.0.0)
+  - HydraAsync (2.0.6)
+  - tencent_im_sdk_plugin (1.0.5):
+    - Flutter
+    - HydraAsync
+    - TXIMSDK_Plus_iOS (= 5.6.1200)
+  - TXIMSDK_Plus_iOS (5.6.1200)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - tencent_im_sdk_plugin (from `.symlinks/plugins/tencent_im_sdk_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - HydraAsync
+    - TXIMSDK_Plus_iOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  tencent_im_sdk_plugin:
+    :path: ".symlinks/plugins/tencent_im_sdk_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  HydraAsync: 8d589bd725b0224f899afafc9a396327405f8063
+  tencent_im_sdk_plugin: c9f16743050903ee1097a0164ea7d3c6280598fa
+  TXIMSDK_Plus_iOS: 1bfe351c84e3dad80e9c8e182267f87f6295f715
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
